@@ -1,0 +1,8 @@
+{
+    "source": ["custom.modify-read-replicas"],
+    "detail-type": ["Modify Read Replicas"],
+    "detail": {
+      "desiredReplicaCount": 3,
+      "replicaPrefix": "your-automated-instance-"
+    }
+  }
